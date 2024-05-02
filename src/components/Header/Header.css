@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.header .logo {
+    height: 100px;
+    width: 100px;
+    background: url('../../images/111.jpg') no-repeat center center;
+}
+.header h1 {
+    font-style: italic;
+    color: dimgray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header p {
+    color: dimgray;
+}

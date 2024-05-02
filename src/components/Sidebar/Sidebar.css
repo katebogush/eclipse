@@ -1,0 +1,21 @@
+.sidebar {
+    background-color: #c8000a;
+}
+.sidebar ul {
+    width: 70%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0;
+}
+.sidebar li {
+    list-style-type: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.sidebar a {
+    font-size: 20px;
+    text-decoration: none;
+}

@@ -1,0 +1,17 @@
+.itemList {
+    margin: 0 auto;
+}
+.ItemFoto {
+    background-color: lightcoral;
+    width: 200px;
+    height: 300px;
+}
+.itemList ul {
+    display: flex;
+    padding: 0;
+    justify-content: space-between;
+}
+.itemList li {
+    list-style-type: none;
+    margin: 5px;
+}
