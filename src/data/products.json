@@ -1,17 +1,17 @@
 [
     {
         "id": "LC2003",
-        "name": "hggjgjv",
+        "name": "Корсет на шнурівці в вінтажному стилі",
         "category": "corsets",
         "price": 567,
         "instock": true,
         "size": "M",
         "color": "black",
-        "img": ""
+        "img": "../../images/111.jpg"
     },
     {
         "id": "LC3745",
-        "name": "HFHDDjgjv",
+        "name": "Корсет з поясом та кишенями",
         "category": "corsets",
         "price": 455,
         "instock": true,
@@ -21,7 +21,7 @@
     },
     {
         "id": "LC1235",
-        "name": "JJJjgjv",
+        "name": "Леопардовий корсет на шнурівці",
         "category": "corsets",
         "price": 1765,
         "instock": true,
@@ -31,7 +31,7 @@
     },
     {
         "id": "LC7532",
-        "name": "OOOHFD",
+        "name": "Шкіряний корсет з бантиком",
         "category": "corsets",
         "price": 1234,
         "instock": true,
@@ -41,7 +41,7 @@
     },
     {
         "id": "LC1244",
-        "name": "jdsgfjseg",
+        "name": "Супер стильний жіночий корсет",
         "category": "corsets",
         "price": 789,
         "instock": true,

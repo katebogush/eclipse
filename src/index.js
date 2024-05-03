@@ -59,6 +59,5 @@ root.render(
 
 function loader({params}){
     const product = productsData.filter(e=> e.id === params.ItemId)
-    console.log(product)
-    return true
+    return product[0]
 }
