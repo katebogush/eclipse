@@ -45,7 +45,7 @@ const router = createBrowserRouter(
             <Route path='/panchohu' element={<Panchohu />} />
             <Route path='/costums' element={<Costums />} />
             <Route path='/corsets/:ItemId' loader={loader} element={<ItemPage />} />
-           
+            <Route path='*' element={<ErrorPage />} />
         </Route>
     )
 )
